@@ -4,9 +4,8 @@
  --------------------------------------------------------------
 
 ```
-Program
+Chess/Tic-Tac-Toe vs AI
 ```
-Choose between Chess/Tic-Tac-Toe vs AI
 
 ```
 Running Console Application
